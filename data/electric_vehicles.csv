@@ -723,6 +723,7 @@ tesla,model s,2017.0,30935.0,electric,55995.0,4.0
 nissan,leaf,2019.0,461.0,electric,22995.0,2.0
 nissan,leaf,2019.0,6475.0,electric,21995.0,2.0
 mercedes-benz,b-class,2017.0,17754.0,electric,15995.0,4.0
+mercedes-benz,b-class,2023.0,0.0,electric,37440.0,1.0
 bmw,i3,2018.0,11442.0,electric,19995.0,3.0
 volkswagen,e-golf,2019.0,6337.0,electric,17995.0,2.0
 bmw,i3,2019.0,108.0,electric,27995.0,2.0
@@ -765,6 +766,8 @@ nissan,leaf,2012.0,48084.0,electric,6995.0,9.0
 tesla,model x,2016.0,20930.0,electric,72495.0,5.0
 kia,soul ev,2017.0,8020.0,electric,13892.0,4.0
 chevrolet,bolt ev,2020.0,0.0,electric,29990.0,1.0
+chevrolet,bolt ev,2019.0,75246.0,electric,23988.0,5.0
+chevrolet,bolt ev,2019.0,124000.0,electric,18895.0,5.0
 porsche,taycan,2020.0,800.0,electric,159900.0,1.0
 tesla,model s,2013.0,43286.0,electric,38575.0,8.0
 tesla,model s,2013.0,28937.0,electric,44575.0,8.0
@@ -775,7 +778,9 @@ hyundai,ioniq electric,2019.0,8834.0,electric,19826.0,2.0
 chevrolet,bolt ev,2020.0,2.0,electric,42909.0,1.0
 chevrolet,bolt ev,2020.0,2.0,electric,42909.0,1.0
 hyundai,kona electric,2020.0,12.0,electric,38895.0,1.0
+hyundai,kona electric,2019.0,177120.0,electric,19850.0,5.0
 hyundai,ioniq electric,2020.0,12.0,electric,39890.0,1.0
+hyundai,ioniq electric,2019.0,115547.0,electric,16500.0,5.0
 hyundai,ioniq electric,2020.0,0.0,electric,39570.0,1.0
 hyundai,ioniq electric,2020.0,12.0,electric,39590.0,1.0
 hyundai,ioniq electric,2020.0,12.0,electric,39590.0,1.0
@@ -821,6 +826,7 @@ tesla,model 3,2019.0,13066.0,electric,52681.0,2.0
 kia,soul ev,2017.0,3400.0,electric,13995.0,4.0
 volkswagen,e-golf,2015.0,19500.0,electric,12995.0,6.0
 kia,niro ev,2019.0,6.0,electric,46260.0,2.0
+kia,niro ev,2019.0,46884.0,electric,27990.0,5.0
 kia,niro ev,2019.0,6.0,electric,46260.0,2.0
 kia,niro ev,2019.0,2.0,electric,46355.0,2.0
 kia,niro ev,2019.0,2.0,electric,46355.0,2.0
@@ -837,6 +843,8 @@ jaguar,i-pace,2019.0,15.0,electric,61679.0,2.0
 jaguar,i-pace,2019.0,36.0,electric,62759.0,2.0
 jaguar,i-pace,2019.0,37.0,electric,62982.0,2.0
 jaguar,i-pace,2019.0,13.0,electric,54722.0,2.0
+jaguar,i-pace,2019.0,50679.0,electric,39888.0,5.0
+jaguar,i-pace,2019.0,65205.0,electric,34888.0,5.0
 jaguar,i-pace,2019.0,5.0,electric,58557.0,2.0
 jaguar,i-pace,2019.0,48.0,electric,61007.0,2.0
 jaguar,i-pace,2020.0,8.0,electric,83953.0,1.0
@@ -875,14 +883,23 @@ nissan,leaf,2019.0,3.0,electric,34504.0,2.0
 nissan,leaf,2019.0,601.0,electric,23794.0,2.0
 tesla,model s,2013.0,42500.0,electric,33500.0,8.0
 fiat,500e,2017.0,27468.0,electric,9800.0,4.0
+fiat,500e,2024.0,0.0,electric,34908.0,1.0
+fiat,500e,2015.0,48956.0,electric,8200.0,9.0
 tesla,model s,2016.0,29495.0,electric,43800.0,5.0
 kia,soul ev,2017.0,28559.0,electric,13889.0,4.0
+kia,soul ev,2023.0,12556.0,electric,37595.0,1.0
 tesla,model 3,2020.0,8004.0,electric,41800.0,1.0
 audi,e-tron,2020.0,13.0,electric,80075.0,1.0
 audi,e-tron,2020.0,28.0,electric,80075.0,1.0
 audi,e-tron,2019.0,10.0,electric,83990.0,2.0
 audi,e-tron,2019.0,34.0,electric,84015.0,2.0
 chevrolet,bolt ev,2017.0,31835.0,electric,21000.0,4.0
+chevrolet,bolt ev,2016.0,52335.0,electric,15230.0,5.0
+chevrolet,bolt ev,2016.0,43435.0,electric,12930.0,5.0
+chevrolet,bolt ev,2016.0,52335.0,electric,15430.0,5.0
+chevrolet,bolt ev,2016.0,43435.0,electric,16930.0,5.0
+chevrolet,bolt ev,2016.0,62335.0,electric,15230.0,5.0
+chevrolet,bolt ev,2016.0,25435.0,electric,13930.0,5.0
 kia,soul ev,2017.0,19846.0,electric,15674.0,4.0
 tesla,model s,2012.0,22114.0,electric,39994.0,9.0
 tesla,model x,2018.0,45804.0,electric,59995.0,3.0
@@ -943,13 +960,15 @@ chevrolet,bolt ev,2020.0,2.0,electric,34501.0,1.0
 audi,e-tron,2019.0,8118.0,electric,61990.0,2.0
 tesla,model 3,2018.0,6800.0,electric,51990.0,3.0
 audi,e-tron,2020.0,15.0,electric,80075.0,1.0
+audi,e-tron,2019.0,41769.0,electric,35900.0,5.0
+audi,e-tron,2019.0,87956.0,electric,43980.0,5.0
 chevrolet,bolt ev,2020.0,5.0,electric,39370.0,1.0
 audi,e-tron,2019.0,14394.0,electric,54747.0,2.0
 chevrolet,bolt ev,2020.0,0.0,electric,39370.0,1.0
-chevrolet,bolt ev,2017.0,39962.0,electric,18995.0,4.0
+chevrolet,bolt ev,2017.0,39962.0,electric,17295.0,4.0
 chevrolet,bolt ev,2020.0,5.0,electric,44135.0,1.0
 chevrolet,bolt ev,2020.0,0.0,electric,44135.0,1.0
-chevrolet,bolt ev,2017.0,37464.0,electric,18995.0,4.0
+chevrolet,bolt ev,2017.0,37464.0,electric,15995.0,4.0
 chevrolet,bolt ev,2020.0,3.0,electric,40480.0,1.0
 porsche,taycan,2020.0,20.0,electric,138990.0,1.0
 porsche,taycan,2020.0,21.0,electric,142120.0,1.0
@@ -958,6 +977,8 @@ jaguar,i-pace,2019.0,25.0,electric,73785.0,2.0
 jaguar,i-pace,2020.0,29.0,electric,84350.0,1.0
 porsche,taycan,2020.0,1290.0,electric,165670.0,1.0
 porsche,taycan,2020.0,24.0,electric,166240.0,1.0
+porsche,taycan,2020.0,35300.0,electric,119880.0,4.0
+porsche,taycan,2020.0,25793.0,electric,90995.0,4.0
 jaguar,i-pace,2019.0,15.0,electric,74995.0,2.0
 jaguar,i-pace,2019.0,449.0,electric,75975.0,2.0
 porsche,taycan,2020.0,5.0,electric,169520.0,1.0
